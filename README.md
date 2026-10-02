@@ -52,9 +52,12 @@ Excel Skills Demonstrated
 - Variance analysis
 - Dashboard design
 - Data visualization
-- Financial reporting
-- Spreadsheet organization
 
 Disclaimer
 
 This project uses simulated data created for educational and portfolio purposes. It does not contain confidential, proprietary, or real organizational financial information.
+
+
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
